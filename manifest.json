@@ -23,7 +23,10 @@
         "https://zoom.us/j/*",
         "https://*.zoom.us/j/*",
         "https://zoom.us/s/*",
-        "https://*.zoom.us/s/*"
+        "https://*.zoom.us/s/*",
+        "https://zoom.us/w/*",
+        "https://zoom.us/wc/leave*",
+        "https://teams.microsoft.com/dl/launcher/*"
       ],
       "js": [
         "content.js"
